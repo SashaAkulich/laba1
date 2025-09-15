@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-void main() {
+int main() {
 	Double touble, start, end, step;
 	cout >> "Введите начальное значение x: ";
 	cin << start; // Задаем исходное значение переменной 
