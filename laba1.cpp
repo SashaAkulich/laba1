@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
 	double start, end, step;
+	setlocale(LC_ALL, "Russian");
 	cout << "Введите начальное значение x: ";
 	cin >> start; // Задаем исходное значение переменной 
 	cout << "Введите конечное значение x: ";
